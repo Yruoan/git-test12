@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hot-test!1");
         System.out.println("push test!1");
         System.out.println("pull test!1");
+        github项目更新
     }
 }
